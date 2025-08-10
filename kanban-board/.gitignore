@@ -1,3 +1,5 @@
+# Ignore node_modules
+node_modules/
 .nhost
 .secrets
 node_modules
