@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "/auth/page": [
+      "static/chunks/0a46a_next_dist_2a439c91._.js",
+      "static/chunks/src_app_favicon_ico_mjs_72c4d0ea._.js",
+      "static/chunks/[root-of-the-server]__8ebb6d4b._.css",
+      "static/chunks/8182d_xstate_es_027feaa7._.js",
+      "static/chunks/c9186_@nhost_hasura-auth-js_dist_index_esm_a14f744a.js",
+      "static/chunks/4b3e1_graphql_0026510d._.js",
+      "static/chunks/61f83_@apollo_client_7b1e8054._.js",
+      "static/chunks/node_modules__pnpm_36a8afec._.js",
+      "static/chunks/src_3a3e4e85._.js",
+      "static/chunks/src_app_layout_tsx_e96336bb._.js",
+      "static/chunks/0a46a_next_dist_client_components_builtin_global-error_b35c145d.js",
+      "static/chunks/src_app_auth_page_tsx_f9b7ee76._.js",
+      "static/chunks/src_app_auth_page_tsx_b35c145d._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_5f1c7f93._.js",
+      "static/chunks/0a46a_next_dist_compiled_react-dom_6e2f11e4._.js",
+      "static/chunks/0a46a_next_dist_compiled_next-devtools_index_42c0a5eb.js",
+      "static/chunks/0a46a_next_dist_compiled_769b99e2._.js",
+      "static/chunks/0a46a_next_dist_client_9997581d._.js",
+      "static/chunks/0a46a_next_dist_16fd90dd._.js",
+      "static/chunks/61dca_@swc_helpers_cjs_28edb73c._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_ba43b75a._.js"
+    ]
+  }
+}

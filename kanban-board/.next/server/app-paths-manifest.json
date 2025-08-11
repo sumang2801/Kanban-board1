@@ -1,5 +1,6 @@
 {
-  "/api/hello/route": "app/api/hello/route.js",
-  "/countries/page": "app/countries/page.js",
-  "/page": "app/page.js"
+  "/auth/page": "app/auth/page.js",
+  "/boards/page": "app/boards/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js"
 }

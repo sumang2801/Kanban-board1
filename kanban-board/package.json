@@ -11,6 +11,8 @@
   "dependencies": {
     "@apollo/client": "^3.13.9",
     "@apollo/client-integration-nextjs": "^0.12.3",
+    "@nhost/nhost-js": "^3.3.0",
+    "@nhost/react": "^3.11.1",
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
